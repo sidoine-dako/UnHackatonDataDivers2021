@@ -1,5 +1,6 @@
 ############  CODE FOR COVID-19 IMPACT ON SOCIO-ECONOMIC DEVELOPMENT ##########
 ## TEAM : DATA DIVERS 
+## By Roland SONOUNAMETO
 
 rm(list=ls())
 
@@ -103,6 +104,3 @@ ggplot(dat.1) +
        axis.text.x = element_text(size = 10, colour = "black"),
        axis.text.y = element_text(size = 10, colour = "black")
      )
-
-
-
