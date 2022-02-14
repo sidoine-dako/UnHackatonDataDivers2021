@@ -1,0 +1,25 @@
+ area	source	sex	time	index
+World: Low income	ILO - ILO Modelled Estimates	Total	2011	5.2
+World: Low income	ILO - ILO Modelled Estimates	Total	2012	5.2
+World: Low income	ILO - ILO Modelled Estimates	Total	2013	5.1
+World: Low income	ILO - ILO Modelled Estimates	Total	2014	5.1
+World: Low income	ILO - ILO Modelled Estimates	Total	2015	5.1
+World: Low income	ILO - ILO Modelled Estimates	Total	2016	5.0
+World: Low income	ILO - ILO Modelled Estimates	Total	2017	5.0
+World: Low income	ILO - ILO Modelled Estimates	Total	2018	4.9
+World: Low income	ILO - ILO Modelled Estimates	Total	2019	4.8
+World: Low income	ILO - ILO Modelled Estimates	Total	2020	5.3
+World: Low income	ILO - ILO Modelled Estimates	Total	2021	5.3
+World: Low income	ILO - ILO Modelled Estimates	Total	2022	5.2
+World: High income	ILO - ILO Modelled Estimates	Total	2011	7.9
+World: High income	ILO - ILO Modelled Estimates	Total	2012	7.9
+World: High income	ILO - ILO Modelled Estimates	Total	2013	7.8
+World: High income	ILO - ILO Modelled Estimates	Total	2014	7.2
+World: High income	ILO - ILO Modelled Estimates	Total	2015	6.6
+World: High income	ILO - ILO Modelled Estimates	Total	2016	6.1
+World: High income	ILO - ILO Modelled Estimates	Total	2017	5.6
+World: High income	ILO - ILO Modelled Estimates	Total	2018	5.1
+World: High income	ILO - ILO Modelled Estimates	Total	2019	4.8
+World: High income	ILO - ILO Modelled Estimates	Total	2020	6.8
+World: High income	ILO - ILO Modelled Estimates	Total	2021	5.8
+World: High income	ILO - ILO Modelled Estimates	Total	2022	5.0
